@@ -1,1 +1,1 @@
-# btd - display Battery Time Data in the forewindow
+# btd - display Battery Time Date in the forewindow
